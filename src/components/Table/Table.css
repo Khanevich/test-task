@@ -1,0 +1,35 @@
+.table thead td {
+  padding: 10px 5px;
+}
+
+.table tbody td {
+  padding: 0;
+}
+
+.table tbody td .table-value,
+.table tbody td .table-input {
+  padding: 10px 5px;
+}
+
+.table-input {
+  background: transparent;
+  border: none;
+  width: 100%;
+  outline: none;
+}
+
+.remove-button {
+  background: url('../../assets/delete.svg') center center no-repeat;
+  width: 18px;
+  height: 20px;
+  border: none;
+}
+
+.column--remove {
+  width: 50px;
+}
+
+.column--remove .remove-button {
+  width: 100%;
+  padding: 21px 0;
+}

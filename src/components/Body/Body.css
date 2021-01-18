@@ -1,0 +1,14 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  flex-grow: 1;
+}
+
+.header {
+  padding: 10px;
+}
+
+.tableContainer {
+  overflow-y: auto;
+}

@@ -1,0 +1,14 @@
+.footer {
+  padding: 10px;
+  background-color: #fdfdfd;
+  border-top: 1px solid #d6d6d6;
+}
+
+.buttons-wrapper {
+  display: flex;
+  margin: -5px;
+}
+
+.buttons-wrapper .btn {
+  margin: 5px;
+}
